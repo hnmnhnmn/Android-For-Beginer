@@ -1,0 +1,445 @@
+{
+  "province": [
+    {
+      "name": "Thành phố Hà Nội",
+      "lattitude": 21.0301252,
+      "longitude": 105.8272924,
+      "pay_code": "H004",
+      "province_code": "Hà Nội"
+    },
+    {
+      "name": "Thành phố Đà Nẵng",
+      "lattitude": 16.062258,
+      "longitude": 108.228383,
+      "pay_code": "D511",
+      "province_code": "Đà Nẵng"
+    },
+    {
+      "name": "Thành phố Cần Thơ",
+      "lattitude": 10.03372,
+      "longitude": 105.7737418,
+      "pay_code": "C710",
+      "province_code": "Cần Thơ"
+    },
+    {
+      "name": "Thành phố Hồ Chí Minh",
+      "lattitude": 10.7725451,
+      "longitude": 106.6958473,
+      "pay_code": "T008",
+      "province_code": "Hồ Chí Minh"
+    },
+    {
+      "name": "Thành phố Hải Phòng",
+      "lattitude": 20.8442515,
+      "longitude": 106.6856613,
+      "pay_code": "H031",
+      "province_code": "Hải Phòng"
+    },
+    {
+      "name": "Tỉnh Thừa Thiên Huế",
+      "lattitude": 16.4668533,
+      "longitude": 107.5739841,
+      "pay_code": "T054",
+      "province_code": "Thừa Thiên Huế"
+    },
+    {
+      "name": "Tỉnh An Giang",
+      "lattitude": 10.3764076,
+      "longitude": 105.4272741,
+      "pay_code": "A076",
+      "province_code": "An Giang"
+    },
+    {
+      "name": "Tỉnh Bà Rịa Vũng Tàu",
+      "lattitude": 10.4984533,
+      "longitude": 107.1782447,
+      "pay_code": "V064",
+      "province_code": "BRVT"
+    },
+    {
+      "name": "Tỉnh Bắc Giang",
+      "lattitude": 21.2758985,
+      "longitude": 106.199687,
+      "pay_code": "B240",
+      "province_code": "Bắc Giang"
+    },
+    {
+      "name": "Tỉnh Bắc Kạn",
+      "lattitude": 22.1450284,
+      "longitude": 105.8307722,
+      "pay_code": "B281",
+      "province_code": "Bắc Kạn"
+    },
+    {
+      "name": "Tỉnh Bạc Liêu",
+      "lattitude": 9.2918823,
+      "longitude": 105.7218999,
+      "pay_code": "B781",
+      "province_code": "Bạc Liêu"
+    },
+    {
+      "name": "Tỉnh Bắc Ninh",
+      "lattitude": 21.1736568,
+      "longitude": 106.0616858,
+      "pay_code": "B241",
+      "province_code": "Bắc Ninh"
+    },
+    {
+      "name": "Tỉnh Bến Tre",
+      "lattitude": 10.2408614,
+      "longitude": 106.3737351,
+      "pay_code": "B075",
+      "province_code": "Bến Tre"
+    },
+    {
+      "name": "Tỉnh Bình Định",
+      "lattitude": 13.7767979,
+      "longitude": 109.2232578,
+      "pay_code": "B056",
+      "province_code": "Bình Định"
+    },
+    {
+      "name": "Tỉnh Bình Dương",
+      "lattitude": 10.9803073,
+      "longitude": 106.6568742,
+      "pay_code": "B650",
+      "province_code": "Bình Dương"
+    },
+    {
+      "name": "Tỉnh Bình Phước",
+      "lattitude": 11.533365,
+      "longitude": 106.8822071,
+      "pay_code": "B651",
+      "province_code": "Bình Phước"
+    },
+    {
+      "name": "Tỉnh Bình Thuận",
+      "lattitude": 10.9355426,
+      "longitude": 108.1112378,
+      "pay_code": "B062",
+      "province_code": "Bình Thuận"
+    },
+    {
+      "name": "Tỉnh Cà Mau",
+      "lattitude": 9.1781333,
+      "longitude": 105.1491235,
+      "pay_code": "C780",
+      "province_code": "Cà Mau"
+    },
+    {
+      "name": "Tỉnh Cao Bằng",
+      "lattitude": 22.665114,
+      "longitude": 106.2587326,
+      "pay_code": "C026",
+      "province_code": "Cao Bằng"
+    },
+    {
+      "name": "Tỉnh Đắk Lắk",
+      "lattitude": 12.6785279,
+      "longitude": 108.0394836,
+      "pay_code": "D500",
+      "province_code": "Đắk Lắk"
+    },
+    {
+      "name": "Tỉnh Đắk Nông",
+      "lattitude": 12.0048205,
+      "longitude": 107.6847148,
+      "pay_code": "D501",
+      "province_code": "Đắk Nông"
+    },
+    {
+      "name": "Tỉnh Điện Biên",
+      "lattitude": 21.3907066,
+      "longitude": 103.0146792,
+      "pay_code": "D230",
+      "province_code": "Điện Biên"
+    },
+    {
+      "name": "Tỉnh Đồng Nai",
+      "lattitude": 10.9578664,
+      "longitude": 106.8397465,
+      "pay_code": "D061",
+      "province_code": "Đồng Nai"
+    },
+    {
+      "name": "Tỉnh Đồng Tháp",
+      "lattitude": 10.4561362,
+      "longitude": 105.634257,
+      "pay_code": "D067",
+      "province_code": "Đồng Tháp"
+    },
+    {
+      "name": "Tỉnh Gia Lai",
+      "lattitude": 13.9747658,
+      "longitude": 107.9949484,
+      "pay_code": "G059",
+      "province_code": "Gia Lai"
+    },
+    {
+      "name": "Tỉnh Hà Giang",
+      "lattitude": 22.8242243,
+      "longitude": 104.9847072,
+      "pay_code": "H019",
+      "province_code": "Hà Giang"
+    },
+    {
+      "name": "Tỉnh Hà Nam",
+      "lattitude": 20.5396664,
+      "longitude": 105.9141374,
+      "pay_code": "N351",
+      "province_code": "Hà Nam"
+    },
+    {
+      "name": "Tỉnh Hà Tĩnh",
+      "lattitude": 18.3438067,
+      "longitude": 105.8965308,
+      "pay_code": "H039",
+      "province_code": "Hà Tĩnh"
+    },
+    {
+      "name": "Tỉnh Hải Dương",
+      "lattitude": 20.9347213,
+      "longitude": 106.3098387,
+      "pay_code": "H320",
+      "province_code": "Hải Dương"
+    },
+    {
+      "name": "Tỉnh Hậu Giang",
+      "lattitude": 9.7812769,
+      "longitude": 105.4657963,
+      "pay_code": "H711",
+      "province_code": "Hậu Giang"
+    },
+    {
+      "name": "Tỉnh Hòa Bình",
+      "lattitude": 20.8227736,
+      "longitude": 105.3404743,
+      "pay_code": "H018",
+      "province_code": "Hòa Bình"
+    },
+    {
+      "name": "Tỉnh Hưng Yên",
+      "lattitude": 20.6659468,
+      "longitude": 106.0584632,
+      "pay_code": "H321",
+      "province_code": "Hưng Yên"
+    },
+    {
+      "name": "Tỉnh Khánh Hòa",
+      "lattitude": 12.2411911,
+      "longitude": 109.1835538,
+      "pay_code": "K058",
+      "province_code": "Khánh Hòa"
+    },
+    {
+      "name": "Tỉnh Kiên Giang",
+      "lattitude": 9.9521807,
+      "longitude": 105.1183636,
+      "pay_code": "K077",
+      "province_code": "Kiên Giang"
+    },
+    {
+      "name": "Tỉnh Kon Tum",
+      "lattitude": 14.3497453,
+      "longitude": 108.0025154,
+      "pay_code": "K060",
+      "province_code": "Kon Tum"
+    },
+    {
+      "name": "Tỉnh Lai Châu",
+      "lattitude": 22.3970688,
+      "longitude": 103.4578403,
+      "pay_code": "L231",
+      "province_code": "Lai Châu"
+    },
+    {
+      "name": "Tỉnh Lâm Đồng",
+      "lattitude": 11.541777,
+      "longitude": 107.8166778,
+      "pay_code": "L063",
+      "province_code": "Lâm Đồng"
+    },
+    {
+      "name": "Tỉnh Lạng Sơn",
+      "lattitude": 21.852432,
+      "longitude": 106.7571233,
+      "pay_code": "L025",
+      "province_code": "Lạng Sơn"
+    },
+    {
+      "name": "Tỉnh Lào Cai",
+      "lattitude": 22.4815412,
+      "longitude": 103.9728445,
+      "pay_code": "L020",
+      "province_code": "Lào Cai"
+    },
+    {
+      "name": "Tỉnh Long An",
+      "lattitude": 10.5418082,
+      "longitude": 106.4019247,
+      "pay_code": "L072",
+      "province_code": "Long An"
+    },
+    {
+      "name": "Tỉnh Nam Định",
+      "lattitude": 20.4316277,
+      "longitude": 106.1773551,
+      "pay_code": "N350",
+      "province_code": "Nam Định"
+    },
+    {
+      "name": "Tỉnh Nghệ An",
+      "lattitude": 18.6720334,
+      "longitude": 105.6796622,
+      "pay_code": "N038",
+      "province_code": "Nghệ An"
+    },
+    {
+      "name": "Tỉnh Ninh Bình",
+      "lattitude": 20.2617775,
+      "longitude": 105.9675773,
+      "pay_code": "N030",
+      "province_code": "Ninh Bình"
+    },
+    {
+      "name": "Tỉnh Ninh Thuận",
+      "lattitude": 11.5648509,
+      "longitude": 108.9883849,
+      "pay_code": "N068",
+      "province_code": "Ninh Thuận"
+    },
+    {
+      "name": "Tỉnh Phú Thọ",
+      "lattitude": 21.3200007,
+      "longitude": 105.3842154,
+      "pay_code": "P210",
+      "province_code": "Phú Thọ"
+    },
+    {
+      "name": "Tỉnh Phú Yên",
+      "lattitude": 13.1672834,
+      "longitude": 109.2881889,
+      "pay_code": "P057",
+      "province_code": "Phú Yên"
+    },
+    {
+      "name": "Tỉnh Quảng Bình",
+      "lattitude": 17.7562096,
+      "longitude": 106.430149,
+      "pay_code": "Q052",
+      "province_code": "Quảng Bình"
+    },
+    {
+      "name": "Tỉnh Quảng Nam",
+      "lattitude": 15.5576934,
+      "longitude": 108.5026217,
+      "pay_code": "Q510",
+      "province_code": "Quảng Nam"
+    },
+    {
+      "name": "Tỉnh Quảng Ngãi",
+      "lattitude": 15.1208068,
+      "longitude": 108.7824815,
+      "pay_code": "Q055",
+      "province_code": "Quảng Ngãi"
+    },
+    {
+      "name": "Tỉnh Quảng Ninh",
+      "lattitude": 20.9575322,
+      "longitude": 107.0831877,
+      "pay_code": "Q033",
+      "province_code": "Quảng Ninh"
+    },
+    {
+      "name": "Tỉnh Quảng Trị",
+      "lattitude": 16.6295151,
+      "longitude": 106.7376357,
+      "pay_code": "Q053",
+      "province_code": "Quảng Trị"
+    },
+    {
+      "name": "Tỉnh Sóc Trăng",
+      "lattitude": 9.6124794,
+      "longitude": 105.9666029,
+      "pay_code": "S079",
+      "province_code": "Sóc Trăng"
+    },
+    {
+      "name": "Tỉnh Sơn La",
+      "lattitude": 21.3280065,
+      "longitude": 103.9114863,
+      "pay_code": "S022",
+      "province_code": "Sơn La"
+    },
+    {
+      "name": "Tỉnh Tây Ninh",
+      "lattitude": 11.3007042,
+      "longitude": 106.0993781,
+      "pay_code": "T066",
+      "province_code": "Tây Ninh"
+    },
+    {
+      "name": "Tỉnh Thái Bình",
+      "lattitude": 20.4512361,
+      "longitude": 106.3324193,
+      "pay_code": "T036",
+      "province_code": "Thái Bình"
+    },
+    {
+      "name": "Tỉnh Thái Nguyên",
+      "lattitude": 21.4140247,
+      "longitude": 105.8703099,
+      "pay_code": "T280",
+      "province_code": "Thái Nguyên"
+    },
+    {
+      "name": "Tỉnh Thanh Hóa",
+      "lattitude": 19.8150468,
+      "longitude": 105.774006,
+      "pay_code": "T037",
+      "province_code": "Thanh Hóa"
+    },
+    {
+      "name": "Tỉnh Tiền Giang",
+      "lattitude": 10.3563429,
+      "longitude": 106.3610753,
+      "pay_code": "T073",
+      "province_code": "Tiền Giang"
+    },
+    {
+      "name": "Tỉnh Trà Vinh",
+      "lattitude": 9.9347647,
+      "longitude": 106.3409251,
+      "pay_code": "T074",
+      "province_code": "Trà Vinh"
+    },
+    {
+      "name": "Tỉnh Tuyên Quang",
+      "lattitude": 21.813582,
+      "longitude": 105.209298,
+      "pay_code": "T027",
+      "province_code": "Tuyên Quang"
+    },
+    {
+      "name": "Tỉnh Vĩnh Long",
+      "lattitude": 10.2539735,
+      "longitude": 105.9689163,
+      "pay_code": "V070",
+      "province_code": "Vĩnh Long"
+    },
+    {
+      "name": "Tỉnh Vĩnh Phúc",
+      "lattitude": 21.3223722,
+      "longitude": 105.5967048,
+      "pay_code": "V211",
+      "province_code": "Vĩnh Phúc"
+    },
+    {
+      "name": "Tỉnh Yên Bái",
+      "lattitude": 21.711497,
+      "longitude": 104.8849566,
+      "pay_code": "Y029",
+      "province_code": "Yên Bái"
+    }
+  ]
+}
