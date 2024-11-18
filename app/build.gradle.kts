@@ -71,5 +71,6 @@ dependencies {
     //appcompat
     implementation(libs.androidx.appcompat)
     implementation(libs.androidx.constraint)
+    implementation(libs.androidx.cardview)
 
 }

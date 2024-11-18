@@ -7,7 +7,7 @@ import kotlinx.coroutines.flow.asStateFlow
 
 class MainViewModel : ViewModel(){
      val numberTimesClicked = MutableLiveData<Int>()
-//    val numberTimesClicked : StateFlow<Int?> = _numberTimesClicked.asStateFlow()
+//    private val _numberTimesClicked : StateFlow<Int?> = _numberTimesClicked.asStateFlow()
     init {
         numberTimesClicked.value = 0
     }

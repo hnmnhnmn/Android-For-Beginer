@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">My Viettel Clone</string>
     <string name="has_click_times">Has click %d times</string>
+    <string name="viettel_plus_plus">Viettel++</string>
+    <string name="noi_bat">Nổi bật</string>
+    <string name="vt_shop">Viettel Shop</string>
+    <string name="user_name">HOÀNG PHAN LÂM</string>
+    <string name="user_phone">84787513549</string>
 </resources>
