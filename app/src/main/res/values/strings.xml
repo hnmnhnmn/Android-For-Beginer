@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Learning</string>
+    <string name="has_click_times">Has click %d times</string>
+</resources>
